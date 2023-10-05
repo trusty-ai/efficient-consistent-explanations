@@ -1,4 +1,7 @@
-# Code for "Trade-off Between Efficiency and Consistency for Removal-based Explanations"
+# Efficient and Consistent Explanations
+
+Official implementation of paper "Trade-off Between Efficiency and Consistency for Removal-based Explanations" (https://arxiv.org/abs/2210.17426).
+
 
 
 ## Environment requirement
