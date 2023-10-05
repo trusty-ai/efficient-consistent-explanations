@@ -1,6 +1,6 @@
 # Efficient and Consistent Explanations
 
-Official implementation of paper "Trade-off Between Efficiency and Consistency for Removal-based Explanations" (https://arxiv.org/abs/2210.17426).
+Official implementation of NeurIPS 2023 paper "Trade-off Between Efficiency and Consistency for Removal-based Explanations" (https://arxiv.org/abs/2210.17426).
 
 
 
